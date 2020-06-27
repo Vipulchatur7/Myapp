@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">KBC</string>
+    <string name="email">Email ID</string>
+    <string name="password">Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="full_name">Full Name</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="login">Login</string>
+    <string name="go_back"><![CDATA[<<< Go Back]]></string>
+    <string name="sumbit">Sumbit</string>
+    <string name="challange_friend">Challenge Friend</string>
+    <string name="play_now">Play Now</string>
+    <string name="button1">Button</string>
+    <string name="button2">Button</string>
+    <string name="button3">Button</string>
+    <string name="primary">#4848FE</string>
+</resources>
